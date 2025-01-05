@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Your Name]  
+# 👋 Hello, World! I'm Prafulla 
 
 Welcome to my digital workshop—where code, creativity, and curiosity collide!  
 
@@ -12,7 +12,7 @@ Welcome to my digital workshop—where code, creativity, and curiosity collide!
 ## 🔧 Tech Stack  
 
 ### 💻 Languages  
-- **Primary**: [List your main programming languages here]  
+- **Primary**: java,c,c++,js 
 - **Experimenting**: [List languages you're learning or exploring here]  
 
 ### 🔥 Frameworks & Tools  
@@ -22,19 +22,19 @@ Welcome to my digital workshop—where code, creativity, and curiosity collide!
 - DevOps: [Docker, Kubernetes, CI/CD tools]  
 
 ### 🛠️ Others  
-- [Add any other relevant tools or skills, e.g., "UI/UX Design, Cloud Computing, APIs"]  
+- VIDEO EDITING SKILLS
 
 ## 🌍 Let's Connect!  
 
 - 🌐 **Portfolio**: [Link to your personal website, if available]  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
-- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/yourusername)  
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- 💼 **LinkedIn**: [Linked in](www.linkedin.com/in/prafulla-purohit-79aa5623b)  
+- 🐦 **Twitter**: [@myTwitterHandle](https://x.com/21Prafulla)  
+- 📧 **Email**: [prafulpurohit917@example.com](mailto:prafulpurohit917@gmail.com)  
 
 ## 🏆 Fun Facts  
-- 🎨 When I'm not coding, you can find me [hobby, e.g., painting, hiking, gaming, etc.].  
-- 🌌 I love [specific interest, e.g., astronomy, sci-fi novels, etc.].  
-- ☕ Powered by coffee and sheer willpower!  
+- 🎥 **Movie Buff**: From timeless classics to the latest blockbusters, I'm always up for a cinematic journey.
+- 📚 **Bookworm**: I dive deep into pages of fiction and philosophy, exploring worlds, ideas, and perspectives.
+- 💭 **Philosophy Enthusiast**: Fascinated by life's big questions and the wisdom of great thinkers.
 
 ---
 
